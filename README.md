@@ -14,7 +14,7 @@
 </div>
 <!-- Main Section  -->
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPn3b0I6yEwk8VO/giphy.gif" />
+<a href="https://app.daily.dev/dev_nishant28"><img src="https://api.daily.dev/devcards/v2/ew63aLfa7sXZKgx8XaaOe.png?type=default&r=sfb" width="356" alt="Nishant's Dev Card"/></a>
 </div>
 <hr/>
 
